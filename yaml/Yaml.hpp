@@ -515,14 +515,14 @@ namespace Yaml
         Node & Insert(const size_t index);
 
         /**
-        * @breif Add new sequence index to back.
+        * @breif Add new sequence index to front.
         *        Converts node to sequence type if needed.
         *
         */
         Node & PushFront();
 
          /**
-        * @breif Add new sequence index to front.
+        * @breif Add new sequence index to back.
         *        Converts node to sequence type if needed.
         *
         */
