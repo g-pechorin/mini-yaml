@@ -1,3 +1,7 @@
+> ```
+> 2025-11-28
+> Peter Says; libYAML works more-good'er https://gitlab.com/g-pechorin/libyaml
+
 # mini-yaml
 [![Build Status](https://travis-ci.org/jimmiebergmann/mini-yaml.svg?branch=master)](https://github.com/jimmiebergmann/mini-yaml#build-status)  
 Single header YAML 1.0 C++11 serializer/deserializer.
